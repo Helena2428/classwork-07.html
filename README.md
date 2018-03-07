@@ -1,1 +1,62 @@
-# classwork-07.html
+# classwork-07.html<!DOCTYPE HTML>
+<!--Helena Grace
+Classwork-07
+March 08 2018-->
+<html lang="en">
+
+    <head>
+    
+       <meta charset="utf-8">
+       <meta name="description" content="A website about Guard and why I love doing guard.">
+       <meta name="keywords" content="flags, girls, marching band,tosses">
+       <title>Guard is so much fun!!</title>
+       <link rel="shortcut icon" href="favicion.ico">
+       
+       </head>
+       
+       <body>
+       
+       	 <header>
+       	 <h1>Guard is so much fun!!</h1>
+       	 <h3>This page is about Color guard and why you should join!!</h3><!--End of Header Section-->
+       	 </header>
+       	 
+       	 <main>
+       	 
+       	 <p>Guard is when you twirl flags and do amazing tosses that'll make the crowd
+       	 go wild!!</p><!--End of Paragraph 1-->
+       	 <p>In order to join you must be in Marching Band and you can ask the band director
+       	 to place you in Guard and then you're all set for the time of your life!!
+       	 When you join you will get a flag bag where you will keep flags you need for
+       	 the routines you do and a practice flag that you can take home and practice!!
+       	 The routines will take some time to learn but after you learn the routines 
+       	 you'll become a natural at guard and you can tell your friends that you do a 
+       	 sport that you absolutely enjoy!! When you are a Senior you can even run for
+       	 guard captain which means that when the guard director is not present
+       	 you are the boss and you tell people in guard what you want them to do.</p><!--End of Paragraph 2-->
+       	 <p>The routine you absolutely must learn is Parade Routine which is the routine
+       	 we use for when we perform in parades! My favorite part of the routine is when
+       	 we do the mica toss at the end of the parade routine. A few tosses that we do is 
+       	 we do a peggy toss which is the most complicated toss in guard but my favorite
+       	 toss because of the way the flag goes when you do the toss. We also have 
+       	 a mica toss which is the easiest you just cross you right arm underneath of you
+       	 left and you just toss it!! There are more tosses to learn but they are more
+       	 complicated to learn but feel free to try the tosses on your own time!!</p><!--End of Paragraph 3-->
+       	 <p>If you want to learn more about tosses or about guard check these sites out!!</p>
+       	 <nav>
+       	    <ul>
+       	       <li><a href="https://en.wikipedia.org/wiki/Color_guard_(flag_spinning)">Color Guard</a></li>
+       	       <li><a href="https://healthfully.com/cool-color-guard-flag-tricks-8765679.html">Color Guard Tosses</a></li>
+       	       <li><a href="http://thecolorguardsite.tripod.com/id13.html">Color Guard tips</a></li>
+       	   </ul><!--End of list and links-->
+       </nav>
+       </main>
+       
+       <footer>
+       
+       <p>&copy;2018<i>Guard is so much fun!!</i></p>
+       </footer>
+       
+    </body>
+    
+</html><!--End of Code-->
